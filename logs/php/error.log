@@ -35,3 +35,73 @@
 [20-Aug-2020 14:09:46 UTC] PHP   2. require() /Users/shodayuki/Local Sites/yuki-shoda-portfolio/app/public/index.php:17
 [20-Aug-2020 14:09:46 UTC] PHP   3. require_once() /Users/shodayuki/Local Sites/yuki-shoda-portfolio/app/public/wp-blog-header.php:19
 [20-Aug-2020 14:09:46 UTC] PHP   4. include() /Users/shodayuki/Local Sites/yuki-shoda-portfolio/app/public/wp-includes/template-loader.php:106
+[20-Aug-2020 22:12:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function new_WP_Query() in /Users/shodayuki/Local Sites/yuki-shoda-portfolio/app/public/wp-content/themes/original/index.php:12
+Stack trace:
+#0 /Users/shodayuki/Local Sites/yuki-shoda-portfolio/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/shodayuki/Local Sites/yuki-shoda-portfolio/app/public/wp-blog-header.php(19): require_once('/Users/shodayuk...')
+#2 /Users/shodayuki/Local Sites/yuki-shoda-portfolio/app/public/index.php(17): require('/Users/shodayuk...')
+#3 {main}
+  thrown in /Users/shodayuki/Local Sites/yuki-shoda-portfolio/app/public/wp-content/themes/original/index.php on line 12
+[20-Aug-2020 22:12:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function new_WP_Query() in /Users/shodayuki/Local Sites/yuki-shoda-portfolio/app/public/wp-content/themes/original/index.php:12
+Stack trace:
+#0 /Users/shodayuki/Local Sites/yuki-shoda-portfolio/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/shodayuki/Local Sites/yuki-shoda-portfolio/app/public/wp-blog-header.php(19): require_once('/Users/shodayuk...')
+#2 /Users/shodayuki/Local Sites/yuki-shoda-portfolio/app/public/index.php(17): require('/Users/shodayuk...')
+#3 {main}
+  thrown in /Users/shodayuki/Local Sites/yuki-shoda-portfolio/app/public/wp-content/themes/original/index.php on line 12
+[20-Aug-2020 22:13:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function new_WP_Query() in /Users/shodayuki/Local Sites/yuki-shoda-portfolio/app/public/wp-content/themes/original/index.php:12
+Stack trace:
+#0 /Users/shodayuki/Local Sites/yuki-shoda-portfolio/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/shodayuki/Local Sites/yuki-shoda-portfolio/app/public/wp-blog-header.php(19): require_once('/Users/shodayuk...')
+#2 /Users/shodayuki/Local Sites/yuki-shoda-portfolio/app/public/index.php(17): require('/Users/shodayuk...')
+#3 {main}
+  thrown in /Users/shodayuki/Local Sites/yuki-shoda-portfolio/app/public/wp-content/themes/original/index.php on line 12
+[20-Aug-2020 22:13:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function new_WP_Query() in /Users/shodayuki/Local Sites/yuki-shoda-portfolio/app/public/wp-content/themes/original/index.php:12
+Stack trace:
+#0 /Users/shodayuki/Local Sites/yuki-shoda-portfolio/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/shodayuki/Local Sites/yuki-shoda-portfolio/app/public/wp-blog-header.php(19): require_once('/Users/shodayuk...')
+#2 /Users/shodayuki/Local Sites/yuki-shoda-portfolio/app/public/index.php(17): require('/Users/shodayuk...')
+#3 {main}
+  thrown in /Users/shodayuki/Local Sites/yuki-shoda-portfolio/app/public/wp-content/themes/original/index.php on line 12
+[20-Aug-2020 22:13:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function new_WP_Query() in /Users/shodayuki/Local Sites/yuki-shoda-portfolio/app/public/wp-content/themes/original/index.php:12
+Stack trace:
+#0 /Users/shodayuki/Local Sites/yuki-shoda-portfolio/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/shodayuki/Local Sites/yuki-shoda-portfolio/app/public/wp-blog-header.php(19): require_once('/Users/shodayuk...')
+#2 /Users/shodayuki/Local Sites/yuki-shoda-portfolio/app/public/index.php(17): require('/Users/shodayuk...')
+#3 {main}
+  thrown in /Users/shodayuki/Local Sites/yuki-shoda-portfolio/app/public/wp-content/themes/original/index.php on line 12
+[20-Aug-2020 22:13:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function new_WP_Query() in /Users/shodayuki/Local Sites/yuki-shoda-portfolio/app/public/wp-content/themes/original/index.php:12
+Stack trace:
+#0 /Users/shodayuki/Local Sites/yuki-shoda-portfolio/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/shodayuki/Local Sites/yuki-shoda-portfolio/app/public/wp-blog-header.php(19): require_once('/Users/shodayuk...')
+#2 /Users/shodayuki/Local Sites/yuki-shoda-portfolio/app/public/index.php(17): require('/Users/shodayuk...')
+#3 {main}
+  thrown in /Users/shodayuki/Local Sites/yuki-shoda-portfolio/app/public/wp-content/themes/original/index.php on line 12
+[20-Aug-2020 22:13:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function new_WP_Query() in /Users/shodayuki/Local Sites/yuki-shoda-portfolio/app/public/wp-content/themes/original/index.php:12
+Stack trace:
+#0 /Users/shodayuki/Local Sites/yuki-shoda-portfolio/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/shodayuki/Local Sites/yuki-shoda-portfolio/app/public/wp-blog-header.php(19): require_once('/Users/shodayuk...')
+#2 /Users/shodayuki/Local Sites/yuki-shoda-portfolio/app/public/index.php(17): require('/Users/shodayuk...')
+#3 {main}
+  thrown in /Users/shodayuki/Local Sites/yuki-shoda-portfolio/app/public/wp-content/themes/original/index.php on line 12
+[20-Aug-2020 22:14:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function new_WP_Query() in /Users/shodayuki/Local Sites/yuki-shoda-portfolio/app/public/wp-content/themes/original/index.php:12
+Stack trace:
+#0 /Users/shodayuki/Local Sites/yuki-shoda-portfolio/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/shodayuki/Local Sites/yuki-shoda-portfolio/app/public/wp-blog-header.php(19): require_once('/Users/shodayuk...')
+#2 /Users/shodayuki/Local Sites/yuki-shoda-portfolio/app/public/index.php(17): require('/Users/shodayuk...')
+#3 {main}
+  thrown in /Users/shodayuki/Local Sites/yuki-shoda-portfolio/app/public/wp-content/themes/original/index.php on line 12
+[20-Aug-2020 22:15:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function new_WP_Query() in /Users/shodayuki/Local Sites/yuki-shoda-portfolio/app/public/wp-content/themes/original/index.php:13
+Stack trace:
+#0 /Users/shodayuki/Local Sites/yuki-shoda-portfolio/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/shodayuki/Local Sites/yuki-shoda-portfolio/app/public/wp-blog-header.php(19): require_once('/Users/shodayuk...')
+#2 /Users/shodayuki/Local Sites/yuki-shoda-portfolio/app/public/index.php(17): require('/Users/shodayuk...')
+#3 {main}
+  thrown in /Users/shodayuki/Local Sites/yuki-shoda-portfolio/app/public/wp-content/themes/original/index.php on line 13
+[20-Aug-2020 22:15:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function new_WP_Query() in /Users/shodayuki/Local Sites/yuki-shoda-portfolio/app/public/wp-content/themes/original/index.php:13
+Stack trace:
+#0 /Users/shodayuki/Local Sites/yuki-shoda-portfolio/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/shodayuki/Local Sites/yuki-shoda-portfolio/app/public/wp-blog-header.php(19): require_once('/Users/shodayuk...')
+#2 /Users/shodayuki/Local Sites/yuki-shoda-portfolio/app/public/index.php(17): require('/Users/shodayuk...')
+#3 {main}
+  thrown in /Users/shodayuki/Local Sites/yuki-shoda-portfolio/app/public/wp-content/themes/original/index.php on line 13
